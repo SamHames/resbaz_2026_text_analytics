@@ -1,6 +1,6 @@
 # ResBaz 2026 Brisbane Text Analytics Workshops
 
-[tinyurl.com/resbaz-ta](https://tinyurl.com/resbaz-ta)
+# [tinyurl.com/resbaz-ta](https://tinyurl.com/resbaz-ta)
 
 ## Getting started
 
