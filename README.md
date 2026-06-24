@@ -11,3 +11,7 @@
 - [LDaCA project](https://ldaca.edu.au)
 - [LADAL learning materials](https://ladal.edu.au/tutorials.html)
 - [LADAL tools](https://ladal.edu.au/tools.html)
+
+## Backup Binder Link for Tools 
+
+[LADAL Shiny tools on mybinder.org](https://mybinder.org/v2/gh/SLCLADAL/tools-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSLCLADAL%252Ftools%26urlpath%3Dshiny%252Ftools%252F%26branch%3Dmain)
